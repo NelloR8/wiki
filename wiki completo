@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document.html</title>
+    <link rel="stylesheet" href="sito.css">
+</head>
+<body>
+
+ <header>
+    <p>Knopfler è annoverato tra i principali esponenti
+       del rock: si distingue per il suo inconfondibile stile<br>
+       chitarristico, per la sua particolare tecnica che non prevede 
+       l'uso del <a href="1" >plettro</a> e per la carica poetica dei<br>
+       suoi testi.
+       In virtù dei suoi contributi artistici, gli sono stati conferiti tre
+       <a href="*2" >dottorati <i>honoris</i> causa </a>in musica
+       <br>
+       <br> Personaggio modesto e riservato, lontano dalle logiche commerciali 
+       dell'<a href = "*3" >industria discografica</a>, è stato <br> 
+       definito «l'uomo tranquillo del rock»: prima di raggiungere
+         la notorietà, ha conseguito la laurea in <br> letteratura inglese e ha lavorato come
+          insegnante.
+          <br><br>
+        
+          <a href="4*"> <strong>Leggi la voce - Tutte le voci in vetrina</strong></a>
+          
+        
+        </p>
+ </header>
+ 
+    
+    
+</body>
+</html>
+
+a {
+  text-decoration: none;
+    
+} 
+
+body {
+  font-family: sans-serif;
+}
+
